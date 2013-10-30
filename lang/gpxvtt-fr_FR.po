@@ -1,0 +1,254 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: gpxvtt\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2013-01-06 23:27+0100\n"
+"PO-Revision-Date: \n"
+"Last-Translator: Tounoki <nico.public@ouvaton.org>\n"
+"Language-Team: tounoki <nico.public@ouvaton.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-Language: French\n"
+"X-Poedit-Country: FRANCE\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-Basepath: /home/nico/Bureau/html/temporaire/wordpress/wp-content/plugins/gpxvtt\n"
+"X-Poedit-SearchPath-0: /home/nico/Bureau/html/temporaire/wordpress/wp-content/plugins/gpxvtt\n"
+"X-Poedit-SearchPath-1: /home/nico/Bureau/html/temporaire/wordpress/wp-content/plugins/gpxvtt/include\n"
+
+#: /home/nico/Bureau/html/temporaire/wordpress/wp-content/plugins/gpxvtt/include/gpxvtt.class.php:60
+#: /home/nico/Bureau/html/temporaire/wordpress/wp-content/plugins/gpxvtt/include/gpxvtt.class.php:70
+msgid "Configuration du plugin GpxVTT"
+msgstr ""
+
+#: /home/nico/Bureau/html/temporaire/wordpress/wp-content/plugins/gpxvtt/include/gpxvtt.class.php:60
+msgid "GpxVTT"
+msgstr ""
+
+#: /home/nico/Bureau/html/temporaire/wordpress/wp-content/plugins/gpxvtt/include/gpxvtt.class.php:72
+msgid "Bienvenue"
+msgstr ""
+
+#: /home/nico/Bureau/html/temporaire/wordpress/wp-content/plugins/gpxvtt/include/gpxvtt.class.php:73
+msgid "GpxVTT est un plugin qui sert à insérer des traces GPS au format gpx sur votre blog/site.<br/>A partir de la trace téléchargée et d'un shortcode, le plugin génère le tracé de la carte sur un fond OpenStreetMap, des statistiques de route (longueur, dénivelé positif), un graphe de dénivelé (le tout avec un positionnement dynamique pour la correspondance trajet/dénivelé) et un lien pour télécharger la trace."
+msgstr ""
+
+#: /home/nico/Bureau/html/temporaire/wordpress/wp-content/plugins/gpxvtt/include/gpxvtt.class.php:75
+msgid "Utilisation"
+msgstr ""
+
+#: /home/nico/Bureau/html/temporaire/wordpress/wp-content/plugins/gpxvtt/include/gpxvtt.class.php:76
+msgid "1. Téléverser (uploader) votre trace gps au format gpx sur votre site"
+msgstr ""
+
+#: /home/nico/Bureau/html/temporaire/wordpress/wp-content/plugins/gpxvtt/include/gpxvtt.class.php:77
+msgid "2. Relever l'adresse web du fichier"
+msgstr ""
+
+#: /home/nico/Bureau/html/temporaire/wordpress/wp-content/plugins/gpxvtt/include/gpxvtt.class.php:78
+msgid "3. Insérer le shortcode"
+msgstr ""
+
+#: /home/nico/Bureau/html/temporaire/wordpress/wp-content/plugins/gpxvtt/include/gpxvtt.class.php:80
+msgid "Liste des options"
+msgstr ""
+
+#: /home/nico/Bureau/html/temporaire/wordpress/wp-content/plugins/gpxvtt/include/gpxvtt.class.php:82
+msgid "couleur de la trace gps, nom (blue, red, yellow) ou code hexadecimal (#808080)"
+msgstr ""
+
+#: /home/nico/Bureau/html/temporaire/wordpress/wp-content/plugins/gpxvtt/include/gpxvtt.class.php:83
+msgid "largeur de la trace sur la carte (valeur entière en pixel sans les unités)"
+msgstr ""
+
+#: /home/nico/Bureau/html/temporaire/wordpress/wp-content/plugins/gpxvtt/include/gpxvtt.class.php:84
+msgid "opacité de la trace sur le fond de carte (un nombre en virgule flottante entre 0 et 1)"
+msgstr ""
+
+#: /home/nico/Bureau/html/temporaire/wordpress/wp-content/plugins/gpxvtt/include/gpxvtt.class.php:85
+msgid "niveau de zoom"
+msgstr ""
+
+#: /home/nico/Bureau/html/temporaire/wordpress/wp-content/plugins/gpxvtt/include/gpxvtt.class.php:86
+msgid "largeur de la carte (en px avec les unités ex. 600px)"
+msgstr ""
+
+#: /home/nico/Bureau/html/temporaire/wordpress/wp-content/plugins/gpxvtt/include/gpxvtt.class.php:87
+msgid "hauteur de la carte (en px avec les unités ex. 250px)"
+msgstr ""
+
+#: /home/nico/Bureau/html/temporaire/wordpress/wp-content/plugins/gpxvtt/include/gpxvtt.class.php:88
+msgid "largeur du graphe (en px sans les unités ex. 600)"
+msgstr ""
+
+#: /home/nico/Bureau/html/temporaire/wordpress/wp-content/plugins/gpxvtt/include/gpxvtt.class.php:89
+msgid "hauteur du graphe (en px sans les unités ex. 250)"
+msgstr ""
+
+#: /home/nico/Bureau/html/temporaire/wordpress/wp-content/plugins/gpxvtt/include/gpxvtt.class.php:90
+msgid "couleur de l'aire du graphe, nom (blue, red, yellow) ou code hexadecimal (#808080) - valable pour d3 uniquement"
+msgstr ""
+
+#: /home/nico/Bureau/html/temporaire/wordpress/wp-content/plugins/gpxvtt/include/gpxvtt.class.php:91
+msgid "couleur de la ligne supérieure du graphe, nom (blue, red, yellow) ou code hexadecimal (#808080) - valable pour d3 uniquement"
+msgstr ""
+
+#: /home/nico/Bureau/html/temporaire/wordpress/wp-content/plugins/gpxvtt/include/gpxvtt.class.php:95
+msgid "Options de configuration"
+msgstr ""
+
+#: /home/nico/Bureau/html/temporaire/wordpress/wp-content/plugins/gpxvtt/include/gpxvtt.class.php:138
+msgid "Paramètres mis à jour"
+msgstr ""
+
+#: /home/nico/Bureau/html/temporaire/wordpress/wp-content/plugins/gpxvtt/include/gpxvtt.class.php:147
+msgid "Les valeurs indiquées sont les valeurs par défaut. Elles restent modifiables par les arguments passés dans le shortcode."
+msgstr ""
+
+#: /home/nico/Bureau/html/temporaire/wordpress/wp-content/plugins/gpxvtt/include/gpxvtt.class.php:149
+msgid "Configuration générale"
+msgstr ""
+
+#: /home/nico/Bureau/html/temporaire/wordpress/wp-content/plugins/gpxvtt/include/gpxvtt.class.php:151
+msgid "Type de graphe utilisé"
+msgstr ""
+
+#: /home/nico/Bureau/html/temporaire/wordpress/wp-content/plugins/gpxvtt/include/gpxvtt.class.php:163
+msgid "Paramétrage de la carte"
+msgstr ""
+
+#: /home/nico/Bureau/html/temporaire/wordpress/wp-content/plugins/gpxvtt/include/gpxvtt.class.php:165
+msgid "Largeur par défaut de la carte (ex. 500px)"
+msgstr ""
+
+#: /home/nico/Bureau/html/temporaire/wordpress/wp-content/plugins/gpxvtt/include/gpxvtt.class.php:168
+msgid "Hauteur par défaut de la carte (ex. 500px)"
+msgstr ""
+
+#: /home/nico/Bureau/html/temporaire/wordpress/wp-content/plugins/gpxvtt/include/gpxvtt.class.php:171
+msgid "Niveau de zoom par défaut (1 à 19)"
+msgstr ""
+
+#: /home/nico/Bureau/html/temporaire/wordpress/wp-content/plugins/gpxvtt/include/gpxvtt.class.php:174
+msgid "Paramétrage de la trace"
+msgstr ""
+
+#: /home/nico/Bureau/html/temporaire/wordpress/wp-content/plugins/gpxvtt/include/gpxvtt.class.php:176
+msgid "Couleur par défaut de la trace (nom comme blue ou code hexadecimal comme #808080)"
+msgstr ""
+
+#: /home/nico/Bureau/html/temporaire/wordpress/wp-content/plugins/gpxvtt/include/gpxvtt.class.php:179
+msgid "Largeur de la trace (en px)"
+msgstr ""
+
+#: /home/nico/Bureau/html/temporaire/wordpress/wp-content/plugins/gpxvtt/include/gpxvtt.class.php:182
+msgid "Transparence de la trace (0 à 1)"
+msgstr ""
+
+#: /home/nico/Bureau/html/temporaire/wordpress/wp-content/plugins/gpxvtt/include/gpxvtt.class.php:185
+msgid "Paramétrage des propriétés du graphe"
+msgstr ""
+
+#: /home/nico/Bureau/html/temporaire/wordpress/wp-content/plugins/gpxvtt/include/gpxvtt.class.php:187
+msgid "Largeur par défaut du graphe de dénivelé (en px, ex. 500)"
+msgstr ""
+
+#: /home/nico/Bureau/html/temporaire/wordpress/wp-content/plugins/gpxvtt/include/gpxvtt.class.php:190
+#: /home/nico/Bureau/html/temporaire/wordpress/wp-content/plugins/gpxvtt/include/gpxvtt.class.php:193
+#: /home/nico/Bureau/html/temporaire/wordpress/wp-content/plugins/gpxvtt/include/gpxvtt.class.php:196
+msgid "Hauteur par défaut du graphe de dénivelé (en px, ex. 250)"
+msgstr ""
+
+#: /home/nico/Bureau/html/temporaire/wordpress/wp-content/plugins/gpxvtt/include/gpxvtt.class.php:200
+msgid "Mettre à jour"
+msgstr ""
+
+#: /home/nico/Bureau/html/temporaire/wordpress/wp-content/plugins/gpxvtt/include/gpxvtt.class.php:210
+msgid "Licence"
+msgstr ""
+
+#: /home/nico/Bureau/html/temporaire/wordpress/wp-content/plugins/gpxvtt/include/gpxvtt.class.php:212
+msgid "GpxVTT est distribué sous licence ."
+msgstr ""
+
+#: /home/nico/Bureau/html/temporaire/wordpress/wp-content/plugins/gpxvtt/include/gpxvtt.class.php:214
+msgid "Ce plugin n'aurait pas pu voir le jour sans les travaux suivants dont les auteurs ont eu l'excellentissime et génialissime idée de travailler en opensource :"
+msgstr ""
+
+#: /home/nico/Bureau/html/temporaire/wordpress/wp-content/plugins/gpxvtt/include/gpxvtt.class.php:217
+msgid "La bibliothèque Jquery déjà intégrée à Wordpress et ses composantes"
+msgstr ""
+
+#: /home/nico/Bureau/html/temporaire/wordpress/wp-content/plugins/gpxvtt/include/gpxvtt.class.php:219
+msgid "La bibliothèque Openlayers permettant de manipuler des données cartographiques"
+msgstr ""
+
+#: /home/nico/Bureau/html/temporaire/wordpress/wp-content/plugins/gpxvtt/include/gpxvtt.class.php:221
+msgid "Les données cartographiques libres venant du projet mondial de cartographie OpenStreetMap"
+msgstr ""
+
+#: /home/nico/Bureau/html/temporaire/wordpress/wp-content/plugins/gpxvtt/include/gpxvtt.class.php:221
+msgid "Lire els licences d'utilisation d'OSM"
+msgstr ""
+
+#: /home/nico/Bureau/html/temporaire/wordpress/wp-content/plugins/gpxvtt/include/gpxvtt.class.php:223
+msgid "En option, la bibliothèque pChart pour produire des graphiques"
+msgstr ""
+
+#: /home/nico/Bureau/html/temporaire/wordpress/wp-content/plugins/gpxvtt/include/gpxvtt.class.php:225
+msgid "En option, la bibliothèque d3.js pour générer des graphiques dynamiques en javascript au format SVG"
+msgstr ""
+
+#: /home/nico/Bureau/html/temporaire/wordpress/wp-content/plugins/gpxvtt/include/gpxvtt.class.php:227
+msgid "En option, la bibliothèque jpGraph pour générer des graphiques en php"
+msgstr ""
+
+#: /home/nico/Bureau/html/temporaire/wordpress/wp-content/plugins/gpxvtt/include/gpxvtt.class.php:229
+msgid "Bien entendu : thanks to Wordpress Team"
+msgstr ""
+
+#: /home/nico/Bureau/html/temporaire/wordpress/wp-content/plugins/gpxvtt/include/gpxvtt.class.php:317
+#: /home/nico/Bureau/html/temporaire/wordpress/wp-content/plugins/gpxvtt/include/gpxvtt.class.php:322
+msgid "Dénivelé"
+msgstr ""
+
+#: /home/nico/Bureau/html/temporaire/wordpress/wp-content/plugins/gpxvtt/include/gpxvtt.class.php:317
+#: /home/nico/Bureau/html/temporaire/wordpress/wp-content/plugins/gpxvtt/include/gpxvtt.class.php:322
+msgid "Distance en km"
+msgstr ""
+
+#: /home/nico/Bureau/html/temporaire/wordpress/wp-content/plugins/gpxvtt/include/gpxvtt.class.php:317
+#: /home/nico/Bureau/html/temporaire/wordpress/wp-content/plugins/gpxvtt/include/gpxvtt.class.php:322
+msgid "Elévation en m"
+msgstr ""
+
+#: /home/nico/Bureau/html/temporaire/wordpress/wp-content/plugins/gpxvtt/include/gpxvtt.class.php:362
+msgid "Télécharger la trace GPS de ce parcours"
+msgstr ""
+
+#: /home/nico/Bureau/html/temporaire/wordpress/wp-content/plugins/gpxvtt/include/gpxvtt.class.php:585
+msgid "Marqueur"
+msgstr ""
+
+#: /home/nico/Bureau/html/temporaire/wordpress/wp-content/plugins/gpxvtt/include/gpxvtt.class.php:589
+msgid "Trace GPS"
+msgstr ""
+
+#: /home/nico/Bureau/html/temporaire/wordpress/wp-content/plugins/gpxvtt/include/gpxvtt.class.php:729
+msgid "Description du trajet"
+msgstr ""
+
+#: /home/nico/Bureau/html/temporaire/wordpress/wp-content/plugins/gpxvtt/include/gpxvtt.class.php:731
+msgid "Longueur totale du trajet"
+msgstr ""
+
+#: /home/nico/Bureau/html/temporaire/wordpress/wp-content/plugins/gpxvtt/include/gpxvtt.class.php:733
+msgid "Denivelé positif"
+msgstr ""
+
+#: /home/nico/Bureau/html/temporaire/wordpress/wp-content/plugins/gpxvtt/include/gpxvtt.class.php:754
+msgid "L'openSource c'est bien :)"
+msgstr ""
+

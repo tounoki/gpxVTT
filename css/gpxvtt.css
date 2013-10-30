@@ -1,0 +1,48 @@
+/*****************************************************************************************
+** © 2013 POULAIN Nicolas – nicolas.poulain@ouvaton.org **
+** **
+** Ce fichier est une partie du logiciel libre GpxVTT, licencié **
+** sous licence "GNU GPL V3". **
+** La licence est décrite plus précisément dans le fichier : LICENSE.txt **
+** **
+** ATTENTION, CETTE LICENCE EST GRATUITE ET LE LOGICIEL EST **
+** DISTRIBUÉ SANS GARANTIE D'AUCUNE SORTE **
+** ** ** ** **
+** This file is a part of the free software project GpxVTT,
+** licensed under the "GNU GPL V3". **
+**The license is discribed more precisely in LICENSES.txt **
+** **
+**NOTICE : THIS LICENSE IS FREE OF CHARGE AND THE SOFTWARE IS DISTRIBUTED WITHOUT ANY **
+** WARRANTIES OF ANY KIND **
+*****************************************************************************************/
+
+div#gpxvtt_downloadBox {
+	background-repeat: no-repeat ;
+	background-position: 5px 3px ;
+	background-image:url(map.png) ; /* createed by http://omercetin.deviantart.com */
+	border: 1px dashed #808080 ;
+	margin: 10px ;
+	padding: 10px 10px 10px 80px ;
+}
+div#gpxvtt_sub {
+	margin-top: 15px ;
+}
+/* for chart with d3.js */
+div#chart {
+	font: 10px sans-serif;
+}
+.axis path,
+.axis line {
+	fill: none;
+	stroke: #000;
+	shape-rendering: crispEdges;
+}
+.area {
+	fill: steelblue;
+	stroke: none;
+}
+.lineSup {
+	fill: none;
+	stroke: blue;
+	stroke-width: 1px;
+}

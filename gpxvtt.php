@@ -3,14 +3,14 @@
 ** © 2013 POULAIN Nicolas – nicolas.poulain@ouvaton.org **
 ** **
 ** Ce fichier est une partie du logiciel libre GpxVTT, licencié **
-** sous licence "CeCILL version 2". **
+** sous licence "GNU GPL V3". **
 ** La licence est décrite plus précisément dans le fichier : LICENSE.txt **
 ** **
 ** ATTENTION, CETTE LICENCE EST GRATUITE ET LE LOGICIEL EST **
 ** DISTRIBUÉ SANS GARANTIE D'AUCUNE SORTE **
 ** ** ** ** **
 ** This file is a part of the free software project GpxVTT,
-** licensed under the "CeCILL version 2". **
+** licensed under the "GNU GPL V3". **
 **The license is discribed more precisely in LICENSES.txt **
 ** **
 **NOTICE : THIS LICENSE IS FREE OF CHARGE AND THE SOFTWARE IS DISTRIBUTED WITHOUT ANY **
